@@ -20,8 +20,12 @@ $ git clone https://github.com/CursosCod3r/mean-primeira-app.git
 
 - Mudar para uma tag específica
 ```sh
-$ git checkout tags/<tag_name>
-$ git clean -fd
+$ git reset --hard <tag_name>
+```
+
+- Voltar para a versão mais atual do master
+```sh
+$ git pull
 ```
 
 ## Tags

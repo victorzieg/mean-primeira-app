@@ -29,7 +29,7 @@ $ git pull
 ```
 
 ## Tags
-Foram aplicadas seis tags no repositório:
+Foram aplicadas seis tags no master:
 
 1. **exercicios_mongo** - tag com todos os exercícios do mongo concluídos
 2. **exercicios_node** - tag com todos os exercícios do node concluídos

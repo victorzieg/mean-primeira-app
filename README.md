@@ -13,12 +13,11 @@ O curso relacionado ao material disponibilizado neste repositório está disponi
 
 Passo à passo da configuração necessária para deixar o ambiente e o projeto prontos para o desenvolvimento da aplicação.
 
-1. Clonar o repositório
+1.  Clonar o repositório
 ```sh
 $ git clone https://github.com/CursosCod3r/mean-primeira-app.git
 ```
-
-2. Mudar para uma tag específica
+2.  Mudar para uma tag específica
 ```sh
 $ git checkout tags/<tag_name>
 $ git clean -fd
@@ -26,6 +25,7 @@ $ git clean -fd
 
 ## Tags
 Foram aplicadas seis tags no repositório:
+
 1. exercicios_mongo - tag com todos os exercícios do mongo concluídos
 2. exercicios_node - tag com todos os exercícios do node concluídos
 3. exercicios_express - tag com todos os exercícios do express concluídos

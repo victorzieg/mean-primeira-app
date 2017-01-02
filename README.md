@@ -21,6 +21,7 @@ $ git clone https://github.com/CursosCod3r/mean-primeira-app.git
 2. Mudar para uma tag específica
 ```sh
 $ git checkout tags/<tag_name>
+$ git clean -fd
 ```
 
 ## Tags
